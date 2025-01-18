@@ -1,0 +1,14 @@
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.AssemblyInfoInputs.cache
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.AssemblyInfo.cs
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\danny\ProgramacionII\bin\Debug\net9.0\ProgramacionII.exe
+C:\Users\danny\ProgramacionII\bin\Debug\net9.0\ProgramacionII.deps.json
+C:\Users\danny\ProgramacionII\bin\Debug\net9.0\ProgramacionII.runtimeconfig.json
+C:\Users\danny\ProgramacionII\bin\Debug\net9.0\ProgramacionII.dll
+C:\Users\danny\ProgramacionII\bin\Debug\net9.0\ProgramacionII.pdb
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.dll
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\refint\ProgramacionII.dll
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.pdb
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ProgramacionII.genruntimeconfig.cache
+C:\Users\danny\ProgramacionII\obj\Debug\net9.0\ref\ProgramacionII.dll
