@@ -1,0 +1,14 @@
+C:\Users\danny\Shapes\bin\Debug\net9.0\Shapes.exe
+C:\Users\danny\Shapes\bin\Debug\net9.0\Shapes.deps.json
+C:\Users\danny\Shapes\bin\Debug\net9.0\Shapes.runtimeconfig.json
+C:\Users\danny\Shapes\bin\Debug\net9.0\Shapes.dll
+C:\Users\danny\Shapes\bin\Debug\net9.0\Shapes.pdb
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfo.cs
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.dll
+C:\Users\danny\Shapes\obj\Debug\net9.0\refint\Shapes.dll
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.pdb
+C:\Users\danny\Shapes\obj\Debug\net9.0\Shapes.genruntimeconfig.cache
+C:\Users\danny\Shapes\obj\Debug\net9.0\ref\Shapes.dll
